@@ -7,7 +7,8 @@ Ana Cris y Marilu
 </head> 
 
 <body> 
-<p>Hola, BIENVENIDOS somos alumnas de 5° de pedagogía y es nuestra primer pagina <img src="CRIS Y YO.jpeg" width="400" height="600" />
+<p>Hola, BIENVENIDOS somos alumnas de 5° de pedagogía y es nuestra primer pagina
+  <img src="CRIS Y YO.jpeg" width="400" height="600" />
   
 </p>
 <table width="630" border="2" align="center">
